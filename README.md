@@ -10,7 +10,7 @@ Bien que cela ne soit pas nécessaire (vous pouvez visualiser le contenu en ouvr
 
 ````bash
 git clone https://github.com/sitle/presentation.git -b NOM_PRESENTATION
-# ouvrer le fichier index.html
+# ouvrez le fichier index.html avec votre navigateur
 ```
 
 ### Avec Node.js
